@@ -1,2 +1,2 @@
 # O-TacosTCG
-O'Tacos TCG est un jeu ou le but est de prendre des booster pour en faire une collection et avec les carte tu peut les faire battre, les fusionner et revendre les doublon
+O'Tacos TCG est un jeu ou le but est de prendre des booster pour en faire une collection et avec les carte tu peut les faire battre, les fusionner et revendre les doublon et fait par ia donc si ce détail vous perturbe, ne jouer pas, mais critiquer pas svp, si vous voulez pas jouer, jouer pas, mais critiquer pas quoi, et je suis humain moi donc m'insulter pas pour ce choix d'utiliser l'ia car vous, oui bien VOUS aller être forcer d'en utiliser au bout d'un moment, donc chill
